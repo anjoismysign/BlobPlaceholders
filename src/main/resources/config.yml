@@ -1,0 +1,9 @@
+# Valid DamageCause: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/EntityDamageEvent.DamageCause.html
+DeathCauseParser:
+  BLOCK_EXPLOSION: '%player% blew up'
+  CONTACT: '%player% was pricked to death'
+  CRAMMING: '%player% was squished too much'
+  CUSTOM: '%player% died'
+  DRAGON_BREATH: '%player% was roasted in dragon breath'
+  DROWNING: '%player% drowned'
+# etc... Fill the rest out yourself
